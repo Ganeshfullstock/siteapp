@@ -5,6 +5,9 @@ section.cart {
     background: greenyellow;
     background: linear-gradient(to right, lightgreen,green);
   }
+ h1 {
+    color: darkblue;
+  }
   
   .cart .card {
     border: none;
